@@ -1,5 +1,5 @@
 ## Olá! Eu sou Erick Gusson
-Queria avisar que essa conta teve seus repositórios transferidos para uma <div> <a href="https://github.com/ErickGusson"> Conta nova </div>
+Queria avisar que essa conta teve seus repositórios transferidos para uma <a href="https://github.com/ErickGusson"> Conta nova
 
 <div align="center">
   <a href="https://github.com/ErickVGusson">
